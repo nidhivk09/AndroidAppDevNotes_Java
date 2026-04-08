@@ -37,24 +37,24 @@ The goal of this repository is to:
 2. Navigate through the files based on topics.
 3. Use these notes alongside hands-on practice in Android Studio for better understanding.
    
-##Target Audience
+## Target Audience
 1. Students learning Android development
 2. Beginners working with Java-based Android applications
 3. Developers looking for a quick refresher
 
 
-##Contributions
+## Contributions
 
 Contributions are welcome. You can:
 
-1.Add new topics
-2.Improve existing notes
-3.Fix errors or inconsistencies
-4.Steps to Contribute
-5.Fork the repository
-6.Create a new branch
-7.Make your changes
-8.Submit a pull request
+1. Add new topics
+2. Improve existing notes
+3. Fix errors or inconsistencies
+4. Steps to Contribute
+5. Fork the repository
+6. Create a new branch
+7. Make your changes
+8. Submit a pull request
 
 #License
 
